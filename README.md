@@ -63,24 +63,25 @@ My interests and technical experience span across multiple areas of software dev
 
 ---
 
-## 🚀 Featured Projects
+🚀 Featured Project
 
-A collection of my development projects will be showcased here.
+🧮 Friends of Ten – Interactive Educational Math Application
 
-- 📱 Flutter Applications
-- 🌐 Web Development Projects
-- 🔌 API Integration Projects
-- 🗄️ Database-Driven Applications
+An interactive educational application designed to help children develop mental math skills through engaging learning activities and an intuitive user experience.
 
----
+✨ Key Highlights
 
-## 🌱 Currently Growing
+- Interactive mental math learning experience.
+- Child-friendly educational interface.
+- Structured application architecture.
+- Modern state management and navigation.
 
-- Advanced Flutter Development
-- Backend Development
-- API Architecture
-- Database Design
-- Software Engineering Practices
+🛠️ Technologies
+Flutter | Dart | Riverpod | GoRouter
+
+📂 Project Repository
+
+"Explore Friends of Ten on GitHub" (https://github.com/shahedel/friends-of-ten)
 
 ---
 
