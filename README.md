@@ -35,59 +35,31 @@ My interests and technical experience span across multiple areas of software dev
 
 ---
 
+
 ## 🛠️ Technical Skills
 
 ### 📱 Mobile Development
-<p>
-<img src="https://skillicons.dev/icons?i=flutter,dart" />
-</p>
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 
 ### 🌐 Web Development
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react" />
-</p>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
 ### ⚙️ Backend & Programming
-<p>
-<img src="https://skillicons.dev/icons?i=python,nodejs" />
-</p>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C Sharp](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 
 ### 🗄️ Databases
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,firebase,mongodb" />
-</p>
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ### 🔧 Tools & Technologies
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio" />
-</p>
-
----
-
-## 🧠 Software Engineering
-
-- System Analysis & Design
-- UML Diagrams
-- Software Requirements
-- Technical Documentation
-- Object-Oriented Programming
-- Software Development Principles
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=shahedel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahedel&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img width="90%" src="https://streak-stats.demolab.com?user=shahedel&theme=tokyonight&hide_border=true" />
-
-</div>
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 ---
 
